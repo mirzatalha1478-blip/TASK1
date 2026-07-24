@@ -4,5 +4,5 @@ def read_html_file(filename):
 
 if __name__ == "__main__":
     content = read_html_file("index.html")
-    print("HTML content 01 loaded:")
+    print("HTML content 02 loaded:")
     print(content)
